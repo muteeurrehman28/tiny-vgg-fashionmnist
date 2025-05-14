@@ -1,0 +1,7 @@
+# Core dependencies for the Tiny-VGG FashionMNIST project
+torch==2.0.1              # PyTorch for deep learning framework
+torchvision==0.15.2       # Computer vision datasets and models
+matplotlib==3.8.0         # Plotting for visualizations
+numpy==1.26.0             # Numerical computations
+scikit-learn==1.3.0       # Confusion matrix and metrics
+tqdm==4.66.1              # Progress bars for training (optional)
